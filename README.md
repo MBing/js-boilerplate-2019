@@ -1,8 +1,28 @@
-# Boilerplate 2019
+# JS Boilerplate 2019
 
-## Dependency
+## Dependency (You need to have this on your system installed.)
 - [yarn](https://yarnpkg.com/lang/en/)
 - [node](https://nodejs.org/en/)
 
-# Usage
+## Usage
 
+    yarn install
+
+## Configurations
+
+### Prettier
+[.prettierrc](.prettierrc)
+
+### Webpack
+Production:
+[webpack.config.js](webpack.config.js)
+Development (with watcher & hot reloading):
+[webpack.development.config.js](webpack.development.config.js)
+
+### Babel
+-tbd-
+
+## Packages Used
+- [webpack](https://webpack.js.org/)
+- [babel](https://babeljs.io/)
+- [prettier](https://prettier.io/)
