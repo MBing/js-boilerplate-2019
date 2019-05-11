@@ -7,6 +7,9 @@
 ## Usage
 
     yarn install
+    
+    yarn build # production build
+    yarn dev   # development build with server & hot reloading
 
 ## Configurations
 
