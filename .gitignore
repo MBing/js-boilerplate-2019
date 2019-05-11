@@ -2,7 +2,8 @@
 node_modules
 
 # IDE
-.idea/workspace.xml # keep for file watcher settings for prettier
+.idea/workspace.*
+# keep other .idea files for file watcher settings for prettier & ES6 version
 
 # other folders / files
 dist
