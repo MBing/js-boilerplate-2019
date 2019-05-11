@@ -9,6 +9,7 @@
     yarn install
     
     yarn build # production build
+    
     yarn dev   # development build with server & hot reloading
 
 ## Configurations
@@ -19,6 +20,7 @@
 ### Webpack
 Production:
 [webpack.config.js](webpack.config.js)
+
 Development (with watcher & hot reloading):
 [webpack.development.config.js](webpack.development.config.js)
 
