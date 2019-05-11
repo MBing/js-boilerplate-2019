@@ -6,3 +6,4 @@ node_modules
 
 # other folders / files
 dist
+yarn-error.log
