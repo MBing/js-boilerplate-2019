@@ -6,7 +6,7 @@
 
 ## Usage
 
-    yarn install
+    yarn install # do this before you open the folder in your IDE, so File Watcher is working
     
     yarn build # production build
     
