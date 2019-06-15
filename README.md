@@ -25,7 +25,7 @@ Development (with watcher & hot reloading):
 [webpack.development.config.js](webpack.development.config.js)
 
 ### Babel
--tbd-
+[.babelrc](.babelrc)
 
 ## Packages Used
 - [webpack](https://webpack.js.org/)
